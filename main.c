@@ -33,7 +33,7 @@ void test_heap(){
 
 int main()
 {
-    //printf("Hello world!\n");
+    
     test_heap();
     return 0;
 }
